@@ -1,0 +1,41 @@
+{
+  "messages": [
+    {
+      "id": 1,
+      "content": "Never again",
+      "color": "linear-gradient(to right, #e6e600, #f7941d 17%, #fff100 34%, #00a650 51%, #0054a5 68%, #672d93 85%, #672d93)"
+    },
+    {
+      "id": 2,
+      "content": "E pluribus enum",
+      "color": ""
+    },
+    {
+      "id": 3,
+      "content": "Let there be light.",
+      "color": "#672d93"
+    },
+    {
+      "id": 4,
+      "content": "Hello World",
+      "color": "#2795D9"
+    }
+  ],
+  "colors": [
+    {
+      "name": "Blue",
+      "value": "#2795D9",
+      "id": 1
+    },
+    {
+      "name": "Purple",
+      "value": "#672d93",
+      "id": 2
+    },
+    {
+      "name": "Rainbow",
+      "value": "linear-gradient(to right, #e6e600, #f7941d 17%, #fff100 34%, #00a650 51%, #0054a5 68%, #672d93 85%, #672d93)",
+      "id": 3
+    }
+  ]
+}

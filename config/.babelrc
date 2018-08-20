@@ -1,0 +1,16 @@
+{
+  "presets": [["env", { "modules": false }], "react", "stage-3"],
+  "plugins": [
+    ["module-resolver", { "root": ["./src"] }],
+    ["transform-class-properties"]
+  ],
+  "env": {
+    "test": {
+      "presets": [["env", { "modules": "commonjs" }], "react", "jest"],
+      "plugins": [
+        ["module-resolver", { "root": ["./src"] }],
+        ["transform-class-properties"]
+      ],
+    }
+  }
+}
